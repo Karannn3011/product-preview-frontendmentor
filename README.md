@@ -31,7 +31,7 @@ Desktop:
 
 
 Mobile:
-![](md.jpg)
+![](md.png)
 
 ### Links
 
